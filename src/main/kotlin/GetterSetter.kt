@@ -2,6 +2,7 @@ fun main(){
     val book = Book()
     print(book.author)
 
+
 }
 class Book() {
     var author: String = "Denish Ritchi"
