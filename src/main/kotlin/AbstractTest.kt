@@ -4,7 +4,8 @@ fun main() {
     eng.dateOfBirth("02 December 1998")
 }
 //abstract class
-abstract class Emp(val name: String,val experience: Int) { // Non-Abstract
+abstract class Emp(val name: String,val experience: Int) {
+
 
     abstract var salary: Double
 

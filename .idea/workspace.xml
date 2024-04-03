@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="29c6c7a2-6382-485a-bc35-7729be5eb065" name="Changes" comment="OOPs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AbstractTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AbstractTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.AbstractTestKt">
+  <component name="RunManager" selected="Kotlin.InterfaceTestKt">
     <configuration name="AbstractTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractTestKt" />
       <module name="OopsInKotlin" />
@@ -53,8 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
+    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataClassKt" />
+      <module name="OopsInKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceTestKt" />
       <module name="OopsInKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestKt" />
-      <module name="OopsInKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceTestKt" />
+        <item itemvalue="Kotlin.DataClassKt" />
         <item itemvalue="Kotlin.AbstractTestKt" />
         <item itemvalue="Kotlin.PolymorphismTestKt" />
         <item itemvalue="Kotlin.ConstructorTestKt" />
-        <item itemvalue="Kotlin.TestKt" />
-        <item itemvalue="Kotlin.InheritanceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712120295140</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="OOPs">
+      <option name="closed" value="true" />
+      <created>1712139259614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712139259614</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
