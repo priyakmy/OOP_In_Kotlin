@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29c6c7a2-6382-485a-bc35-7729be5eb065" name="Changes" comment="OOPs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AbstractTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AbstractTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/EnumSealed.kt" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -39,23 +41,16 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InterfaceTestKt">
-    <configuration name="AbstractTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractTestKt" />
-      <module name="OopsInKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConstructorTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorTestKt" />
-      <module name="OopsInKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ModifierKt">
     <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataClassKt" />
+      <module name="OopsInKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumSealedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnumSealedKt" />
       <module name="OopsInKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,8 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PolymorphismTestKt" />
+    <configuration name="ModifierKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModifierKt" />
+      <module name="OopsInKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SealedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SealedKt" />
       <module name="OopsInKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ModifierKt" />
+        <item itemvalue="Kotlin.SealedKt" />
+        <item itemvalue="Kotlin.EnumSealedKt" />
         <item itemvalue="Kotlin.InterfaceTestKt" />
         <item itemvalue="Kotlin.DataClassKt" />
-        <item itemvalue="Kotlin.AbstractTestKt" />
-        <item itemvalue="Kotlin.PolymorphismTestKt" />
-        <item itemvalue="Kotlin.ConstructorTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712139259614</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OOPs">
+      <option name="closed" value="true" />
+      <created>1712171815819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712171815819</updated>
+    </task>
+    <task id="LOCAL-00005" summary="OOPs">
+      <option name="closed" value="true" />
+      <created>1712171853648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712171853648</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
